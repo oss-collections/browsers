@@ -1,0 +1,9 @@
+[submodule "webkit"]
+	path = webkit
+	url = git://git.webkit.org/WebKit.git
+[submodule "firefox"]
+	path = firefox
+	url = https://github.com/mozilla/gecko-dev.git
+[submodule "chromium"]
+	path = chromium
+	url = http://git.chromium.org/chromium/chromium.git
